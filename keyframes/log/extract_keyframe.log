@@ -1,0 +1,34 @@
+
+13:26:59,857 __main__ INFO Processing video vtv_001.mp4
+13:27:03,292 __main__ INFO Processing video vtv_002.mp4
+13:27:04,854 __main__ INFO Processing video vtv_003.mp4
+13:27:06,818 __main__ INFO Processing video vtv_004.mp4
+13:27:07,886 __main__ INFO Processing video vtv_005.mp4
+13:27:10,312 __main__ INFO Processing video vtv_006.mp4
+13:27:11,849 __main__ INFO Processing video vtv_007.mp4
+13:27:14,592 __main__ INFO Processing video vtv_008.mp4
+13:27:15,829 __main__ INFO Total frame: 18950
+13:27:15,829 __main__ INFO Total processed frame: 763
+13:27:15,829 __main__ INFO Total keyframe extracted: 225
+13:35:43,746 __main__ INFO Processing video vtv_001.mp4
+13:35:46,87 __main__ INFO Processing video vtv_002.mp4
+13:35:47,429 __main__ INFO Processing video vtv_003.mp4
+13:35:49,336 __main__ INFO Processing video vtv_004.mp4
+13:35:50,571 __main__ INFO Processing video vtv_005.mp4
+13:35:53,344 __main__ INFO Processing video vtv_006.mp4
+13:35:54,853 __main__ INFO Processing video vtv_007.mp4
+13:35:57,298 __main__ INFO Processing video vtv_008.mp4
+13:35:58,463 __main__ INFO Total frame: 18950
+13:35:58,463 __main__ INFO Total processed frame: 763
+13:35:58,463 __main__ INFO Total keyframe extracted: 225
+14:10:25,32 __main__ INFO Processing video vtv_001.mp4
+14:10:27,416 __main__ INFO Processing video vtv_002.mp4
+14:10:28,758 __main__ INFO Processing video vtv_003.mp4
+14:10:30,513 __main__ INFO Processing video vtv_004.mp4
+14:10:31,479 __main__ INFO Processing video vtv_005.mp4
+14:10:33,752 __main__ INFO Processing video vtv_006.mp4
+14:10:35,189 __main__ INFO Processing video vtv_007.mp4
+14:10:37,744 __main__ INFO Processing video vtv_008.mp4
+14:10:38,855 __main__ INFO Total frame: 18950
+14:10:38,855 __main__ INFO Total processed frame: 763
+14:10:38,855 __main__ INFO Total keyframe extracted: 225
